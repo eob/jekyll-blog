@@ -1,5 +1,5 @@
 ---
-date: '2017-07-18T23:46:20.398Z'
+date: '2017-08-01T04:17:34.398Z'
 layout: page
 title: About
 permalink: /about/
@@ -13,5 +13,3 @@ You can find the source code for Jekyll at [jekyll](https://github.com/jekyll/je
 ### <a id="_3yhccniveo2m"></a>Note for Cloudstitch Users
 
 Note how in the above, links and liquid tags were converted correctly in Markdown! We support all the standard Markdown features from your word processing docs!
-
-Hello. This is a test.
